@@ -1,0 +1,17 @@
+# 다운로드 폴더
+downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.mp3
